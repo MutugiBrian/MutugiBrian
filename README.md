@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+<p align='right'>
+  ![Brian's Github Stats](https://github-readme-stats.vercel.app/api?username=MutugiBrian&show_icons=true&theme=radical)
 </p>
 
 ### My Digital Garden 🌱
@@ -39,4 +39,4 @@ I write regular blog posts, most of which you will find on my personal website [
 - [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
 - [Website](https://stephenajulu.com) 😏🔗
 
-![Brian's Github Stats](https://github-readme-stats.vercel.app/api?username=MutugiBrian&show_icons=true&theme=radical)
+
