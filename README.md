@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://waylonwalker.com/latest"> ![Brian's Github Stats](https://github-readme-stats.vercel.app/api?username=MutugiBrian&show_icons=true&theme=radical)<img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 
 ### My Digital Garden 🌱
