@@ -18,14 +18,32 @@ Here are some ideas to get you started:
 
 <p align="left">My name is Brian Mutugi, a software developer/engineer from Kenya. Am currently working at the United Nations Environment Programme.I mainly build web and mobile applications.I also like using Python 🐍 for webscraping, data-mining and automating stuff.</p>
 
-  <div class="row">
-          <div class="col-sm-12">
-            a
-          </div>
-          <div class="col-sm-12">
-            b
-          </div>
-   </div>
+---
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+[Latest Post 👉](https://waylonwalker.com/latest)
+
+<details>
+ <summary><strong>other favorite posts</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+ 
+</details>
+
+💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+
+---
+
   
 ### 📫 Where to find me
 - [My Personal Website](http://www.brianmutugi.com) 😏
