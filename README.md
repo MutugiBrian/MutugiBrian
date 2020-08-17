@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 <p align="left">My name is Brian Mutugi, a software developer/engineer from Kenya. Am currently working at the United Nations Environment Programme.I mainly build web and mobile applications.I also like using Python 🐍 for webscraping, data-mining and automating stuff.</p>
 
-| a | b |
-|---|---|
-
-  
-### 📫 Where to find me
+| ### 📫 Where to find me
 - [My Personal Website](http://www.brianmutugi.com) 😏
 - [Facebook](https://facebook.com/stephenajulu) 😏
 - [Twitter](https://twitter.com/stephenajulu) 🐤
 - [Instagram](https://instagram.com/stephenajulu) 😎
 - [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
 - [Website](https://stephenajulu.com) 😏🔗
+ | b |
+|---|---|
+
+  
 
  ![Brian's Github Stats](https://github-readme-stats.vercel.app/api?username=MutugiBrian&show_icons=true&theme=radical)
