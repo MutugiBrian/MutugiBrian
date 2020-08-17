@@ -18,17 +18,8 @@ Here are some ideas to get you started:
 
 <p align="left">My name is Brian Mutugi, a software developer/engineer from Kenya. Am currently working at the United Nations Environment Programme.I mainly build web and mobile applications.I also like using Python 🐍 for webscraping, data-mining and automating stuff.</p>
 
----
-
-<p>
-  <a href="https://waylonwalker.com/latest"> ![Brian's Github Stats](https://github-readme-stats.vercel.app/api?username=MutugiBrian&show_icons=true&theme=radical)<img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
----
+| a | b |
+|---|---|
 
   
 ### 📫 Where to find me
