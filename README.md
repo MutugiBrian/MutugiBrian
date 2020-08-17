@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 
 <p align="left">My name is Brian Mutugi, a software developer/engineer from Kenya. Am currently working at the United Nations Environment Programme.I mainly build web and mobile applications.I also like using Python 🐍 for webscraping, data-mining and automating stuff.</p>
 
-
+  <div class="row">
+          <div class="col-sm-12">
+            a
+          </div>
+          <div class="col-sm-12">
+            b
+          </div>
+   </div>
+  
 ### 📫 Where to find me
 - [My Personal Website](http://www.brianmutugi.com) 😏
 - [Facebook](https://facebook.com/stephenajulu) 😏
