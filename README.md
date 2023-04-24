@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left">My name is Brian Mutugi, I am a data scientist and software developer from Kenya.I deal with data, create cross-platform solutions and a Pythonista 🐍 for webscraping, data-mining and automating stuff.</p>
+<p align="left">My name is Brian Mutugi, a data scientist and software developer.I deal with data, create cross-platform solutions and a Pythonista 🐍 for webscraping, data-mining and automating stuff.</p>
 
 | <p align='left'> 📫 Where to find me <br /> - [My Personal Website](http://www.brianmutugi.com/) 😏 <br />   - [LinkedIn](https://www.linkedin.com/in/brian10x/) 👨💼 <br />  - [Instagram](https://www.instagram.com/tugi_bray/) 😎 <br /> - [Facebook](https://www.facebook.com/brian.mutugi.79/) 😏 <br /></p> | ![Brian's Github Stats](https://github-readme-stats.vercel.app/api?username=MutugiBrian&show_icons=true&theme=radical) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
